@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raselkhan1234/node-mongo.git"
+  },
   "author": "Rasel",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raselkhan1234/node-mongo/issues"
+  },
+  "homepage": "https://github.com/Raselkhan1234/node-mongo#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
